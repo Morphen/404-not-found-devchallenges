@@ -69,4 +69,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - GitHub [@morphen](https://{github.com/morphen})
-- Linkedin(linkedin.com/in/david-stevens-rios-gonzalez/)
+- [Linkedin](https://www.linkedin.com/in/david-stevens-rios-gonzalez/)
