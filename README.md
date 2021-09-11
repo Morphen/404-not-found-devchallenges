@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404-not-found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -69,4 +69,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - GitHub [@morphen](https://{github.com/morphen})
-- Linkedin (https://{linkedin.com/in/david-stevens-rios-gonzalez})
+- Linkedin [@david.rios] (https://{linkedin.com/in/david-stevens-rios-gonzalez})
